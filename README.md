@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayyushh-18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![]([https://github-contributor-stats.vercel.app/api?username=ayyushh-18&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github.com/ayyushh-18/CoDEV-Login-Page-))
 
 ---
-[![](https://komarev.com/ghpvc/?username=ayyushh-18&icon=0&color=0)](https://visitcount.itsvg.in)
+[![]([https://komarev.com/ghpvc/?username=ayyushh-18&icon=0&color=0)](https://visitcount.itsvg.in](https://github.com/ayyushh-18/Telegram-AI-Study-Assistant-Bot))
